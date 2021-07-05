@@ -1,4 +1,4 @@
-# Computer text processing (Przetwarzanie tekstow)
+# Computer text processing (Przetwarzanie tekstów)
 
 <img alt="Python" src="https://img.shields.io/badge/Python-3-blueviolet">
 
